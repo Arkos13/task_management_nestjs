@@ -30,7 +30,7 @@
     "@nestjs/platform-express": "^6.10.1",
     "@nestjs/typeorm": "^6.2.0",
     "@types/dotenv": "^8.2.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "braces": "^3.0.2",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.11.0 ",
